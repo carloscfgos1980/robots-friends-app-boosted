@@ -130,7 +130,7 @@ Now everything works!
 I need to go to GitHub, then to the repository for this app, the setting and then Pages... it took some time before it was online!... and I was wrong! I that the script from the homepage wrongly written, it should be with this format:
 "homepage": https://[username].github.io/[repository name],
 
-"homepage": "https://carloscfgos1980.github.io/PWA-Robot_friends",
+"homepage": "https://carloscfgos1980.github.io/robots-friends-app-boosted",
 
 5. Script to run the command:
    "predeploy": "npm run build",
@@ -139,5 +139,15 @@ I need to go to GitHub, then to the repository for this app, the setting and the
 6. Run the command in the terminal:
    npm run deploy
 
-- If I get a message as published.... tada.. it's done:
-  https://carloscfgos1980.github.io/PWA-Robot_friends/
+7. Go to the repository and click in settings and then pages. It has to be in this options:
+
+- Build and deployment
+  Source:
+
+deploy from a branch
+
+- Branch
+  gh-pages /root
+
+- If I get a message as published.... tada.. it's done.. well the second time I need to make some adjustments... nevertheless what is important is that is working:
+  https://carloscfgos1980.github.io/robots-friends-app-boosted/
