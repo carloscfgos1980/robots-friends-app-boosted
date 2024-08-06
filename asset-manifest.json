@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/PWA-Robot_friends/static/css/main.c3732130.css",
+    "main.js": "/PWA-Robot_friends/static/js/main.ea9f3e40.js",
+    "index.html": "/PWA-Robot_friends/index.html",
+    "main.c3732130.css.map": "/PWA-Robot_friends/static/css/main.c3732130.css.map",
+    "main.ea9f3e40.js.map": "/PWA-Robot_friends/static/js/main.ea9f3e40.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c3732130.css",
+    "static/js/main.ea9f3e40.js"
+  ]
+}
