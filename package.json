@@ -2,7 +2,7 @@
   "name": "robofriends_redux",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://carloscfgos1980.github.io/PWA-Robot_friends",
+  "homepage": "https://carloscfgos1980.github.io/robots-friends-app-boosted",
   "dependencies": {
     "@babel/preset-env": "^7.24.8",
     "@reduxjs/toolkit": "^2.2.6",
