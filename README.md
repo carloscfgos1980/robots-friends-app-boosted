@@ -5,8 +5,7 @@
   https://freefrontend.com/css-text-effects/#google_vignette
 - App.js. I filtered the array of robots depending of the input of the search field
 - CardList. I loop (map) thru the array of robots so I display the Card element.
-- The images comes from a website, when word is added, it creates a ramdon robot image, so in order to have different robots, the image in Card.js is added the id of the users fetched from "jsonplace holder":
-  <img src={`https://robohash.org/${id}?200x200`} alt="robots"/>
+- The images comes from a website, when word is added, it creates a ramdon robot image, so in order to have different robots, the image in Card.js is added the id of the users fetched from "jsonplace holder"
 - Explanation of useEffect and useState
 
 # Testing
@@ -126,7 +125,7 @@ Now everything works!
 
 4. Create HomePage property in package.json. Everything is in the documentation:
 
-"homepage": "https://github.com/carloscfgos1980/PWA-Robot_friends",
+"homepage": "https://github.com/carloscfgos1980/robots-friends-app-boosted",
 
 I need to go to GitHub, then to the repository for this app, the setting and then Pages... it took some time before it was online!... and I was wrong! I that the script from the homepage wrongly written, it should be with this format:
 "homepage": https://[username].github.io/[repository name],
